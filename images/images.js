@@ -1,0 +1,4 @@
+//Poppers: <img src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_36/1478751/food-today-main5-190905.jpg" alt="Jalapeno Poppers" width="500" height="300">
+//Soup:  <img src="https://www.aspicyperspective.com/wp-content/uploads/2019/12/chicken-dumplings-recipe-1.jpg" alt="Chicken & Dumpling Soup" width="300" height="400">
+//Salad: <img src="https://www.dinneratthezoo.com/wp-content/uploads/2017/01/asian-cucumber-salad-1.jpg" alt="Thai Inspired Cucumber Salad" width="300" height="400">
+//Garlic: <img src="https://www.eatthis.com/wp-content/uploads/sites/4/2021/09/garlic.jpg?quality=82&strip=1" alt="Garlic Clove" width="500" height="350">
